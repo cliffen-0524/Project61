@@ -1,0 +1,32 @@
+body {
+    background: rgb(2, 0, 36);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(121, 9, 111, 1) 45%, rgba(0, 212, 255, 1) 100%);
+    text-align: center;
+}
+
+h1 {
+    font-family:Lobster;
+    color: red;
+}
+
+img {
+    width: 500px;
+    border-radius: 200px;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+p {
+    font-family: monospace;
+}
+h8{
+font-family: 'Permanent Marker', cursive;
+}
+h9{
+font-family: 'Permanent Marker', cursive;
+}
+.li{
+display: inline;
+}
